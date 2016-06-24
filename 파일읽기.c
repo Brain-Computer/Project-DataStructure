@@ -3,13 +3,13 @@
 int main()
 {
 	FILE* fStream;
-	char ¸ñ·Ï[1000000] = { 0 };
+	char Â¸ëª©ë¡[1000000] = { 0 };
 	fStream = fopen("c:\\word.txt", "r");
 
 	if (fStream)
 	{
-		fread(¸ñ·Ï, 1000000, 1, fStream);
-		printf("¸ñ·Ï : \n%s\n", ¸ñ·Ï);
+		fread(Â¸ëª©ë¡, 1000000, 1, fStream);
+		printf("Â¸ëª©ë¡ : \n%s\n", Â¸ëª©ë¡);
 	}
 	fclose(fStream);
 	return 0;
