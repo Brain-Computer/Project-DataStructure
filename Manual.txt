@@ -1,14 +1,14 @@
 초고
 
-파일을 입력을 받아 출력해주는 프로그램
+파일을 입력을 받아 출력해주는 프로그램은 직접 짜보았습니다.
 
 그리고 Top 5 most tweeted words와 users
 
 SCC의 경우 여러 군데에서 자료를 찾아보고 고쳐보았습니다.
 
-test1-cp949의 자료를 이용했음
+test1-cp949의 자료를 이용했습니다.
 
-프로그래밍 언어는 visual studio 2015를 이용했음
+프로그래밍 언어는 visual studio 2015를 이용했습니다.
 
 보는 순서: 프로젝트연습용-> Manual -> 파일읽기-> Top5 most tweeted words -> Top5 most tweeted users
 -> SCC
