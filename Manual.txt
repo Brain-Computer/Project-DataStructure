@@ -6,6 +6,8 @@
 
 SCC의 구현
 
+test1-cp949의 자료를 이용했음
+
 보는 순서: 프로젝트연습용-> Manual -> 파일읽기-> Top5 most tweeted words -> Top5 most tweeted users
 -> SCC
 
