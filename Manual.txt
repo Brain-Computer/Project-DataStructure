@@ -4,7 +4,7 @@
 
 그리고 Top 5 most tweeted words와 users
 
-SCC의 구현
+SCC의 경우 여러 군데에서 자료를 찾아보고 고쳐보았습니다.
 
 test1-cp949의 자료를 이용했음
 
