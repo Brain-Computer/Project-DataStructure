@@ -4,7 +4,7 @@ int main()
 {
 	FILE* fStream;
 	char ¸목록[1000000] = { 0 };
-	fStream = fopen("c:\\word.txt", "r");
+	fStream = fopen("c:\\word.txt", "r"); // word.txt , user.txt, friend.txt 파일로 변경해서 모두 읽을 수 있음
 
 	if (fStream)
 	{
